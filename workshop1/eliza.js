@@ -30,7 +30,7 @@
 var rules = {
 	
  "~*x olo ~*x": [
- 	"Stop eating turkey bones you fuck"
+   "Stop eating turkey bones you fuck"
  ],
 	
   "~*x hello ~*y": [
