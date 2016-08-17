@@ -31,6 +31,7 @@ var rules = {
 	
  "~*x olo ~*x": [
  	"Stop eating turkey bones you fuck"
+ ],
 	
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
